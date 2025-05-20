@@ -7,7 +7,7 @@ I'm deeply passionate about **Machine Learning**, **Computer Vision**, and **Gen
 - 🔬 Exploring: **Deep Learning**, **Diffusion Models**, **Vision Transformers**, and **Multimodal AI**  
 - 💻 Working on: Projects combining **Computer Vision** with **Generative AI**  
 - 📚 Learning: Advanced techniques in **model optimization**, **video analysis**, and **foundation models**  
-- 🤖 Interests: Image synthesis, real-time AI applications, and agent-based models  
+- 🤖 Interests: Image synthesis, real-time AI applications 
 - 🛠️ Tools I use: `Python`, `PyTorch`, `TensorFlow`, `OpenCV`, `Transformers`, `Weights & Biases`
 
 ---
